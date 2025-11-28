@@ -224,5 +224,3 @@ Este projeto foi desenvolvido para fins educacionais.
 Como este é um projeto acadêmico, não estão sendo aceitas contribuições externas no momento.
 
 ---
-
-Desenvolvido por Nicolas Bitencurt, Anselmo
